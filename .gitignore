@@ -1,0 +1,7 @@
+/ebin
+/deps
+/priv
+erl_crash.dump
+*.ez
+mix.lock
+/c_src/*.o
