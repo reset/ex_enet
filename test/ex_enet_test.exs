@@ -1,4 +1,4 @@
-defmodule ExEnetTest do
+defmodule EnetTest do
   use ExUnit.Case
 
   test "can return the version of enet" do
