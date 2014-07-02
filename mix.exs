@@ -4,7 +4,7 @@ defmodule ExEnet.Mixfile do
   def project do
     [ app: :ex_enet,
       version: "0.0.1",
-      elixir: "~> 0.10.1",
+      elixir: "~> 0.13",
       deps: deps,
       compilers: [:rebar, :erlang, :elixir, :app] ]
   end
